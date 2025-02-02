@@ -1,1 +1,1 @@
-# Projeto---Inteligência-Artificial-
+# Projeto da disciplina Inteligência Artificial
